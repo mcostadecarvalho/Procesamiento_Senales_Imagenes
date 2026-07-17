@@ -5,11 +5,13 @@
 
 ## **16.63 - Procesamiento de Señales e Imágenes Biomédicas** - *2° cuatrimestre 2024* 
 
-## **Grupo:**
 ### Alumnos:
 Costa de Carvalho, Mateus
+
 Jackson, Delfina
+
 Gonzalez, Imanol
+
 Porjolovsky, Martín
 
 **Resumen** 
