@@ -26,5 +26,7 @@ Se pudo validar biomarcadores específicos, como el aumento de la potencia relat
 ### **Tecnologías Utilizadas** 
 
 Lenguaje: Python
+
 Librerías Especializadas: MNE (procesamiento de EEG), NeuroKit2 (señales biomédicas), SciPy (análisis de señales y filtros), NumPy y Pandas
+
 Visualización: Matplotlib (espectrogramas y PSD)
