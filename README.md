@@ -1,5 +1,5 @@
 ![imagen no encontrada](https://centros-investigacion.s3.sa-east-1.amazonaws.com/wp-content/uploads/sites/14/2020/11/logo-itba-site.png)
-# **Trabajos Prácticos de Senales e Imagenes Biomédicas** 
+# **Trabajos Prácticos de Señales e Imagenes Biomédicas** 
 
 *Análisis de Datos en Señales e Imágenes Biomédicas* 
 
